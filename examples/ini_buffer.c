@@ -7,7 +7,7 @@ in pull request https://github.com/benhoyt/inih/pull/38
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../ini.h"
+#include "ini.h"
 
 typedef struct
 {
